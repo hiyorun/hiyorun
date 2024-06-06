@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**hiyorun/hiyorun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Greetings, mate!
+### A short about me:
+- Forever learning
+- FOSS enthusiast
+- Sometimes draws instead of code
+- Contact:
+  - [Twitter](https://x.com/hiyorrun)
+  - [LinkedIn](https://www.linkedin.com/in/lundy-rasuli-11985a1a6/)
+  - [Email](hiyorrun@proton.me)
+- I'm not actually living in the Ijen Crater.
